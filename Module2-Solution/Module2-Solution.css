@@ -26,15 +26,16 @@ h2{
 body {
 	font-family: Helvetica;
 	font-size: 100%;
+	 background: linear-gradient(to right,#ccffff,#ffcccc ); 
 }
 
 
 .chicken{
-    background-color:#009999;         
+    background-color:#ac6553;         
     color: black;
     }
    .beef{
-    background-color:#FFDF00;
+    background-color:#ff0066;
     color: black;  
    }
    .sushi{
@@ -47,7 +48,7 @@ body {
 	  clear: margin;
 	  position: relative;
 	  color: black;
-	  background-color: #FAEBD7;
+	  background-color: #ddccff;
 	  padding: 10px;
 	  padding-top: 45px;
 	  font-size: 100%;
